@@ -1,5 +1,5 @@
-from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
+from tools.generation_utils import load_generation_model
 
 MODEL_NAME = "aayush14/PeptideGPT_non_fouling"
 _peptide_gpt = None
@@ -29,13 +29,7 @@ class PeptideGPT_non_fouling:
 def _get_peptide_gpt() -> PeptideGPT_non_fouling:
     global _peptide_gpt
     if _peptide_gpt is None:
-        tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-        model = AutoModelForCausalLM.from_pretrained(
-            MODEL_NAME,
-            dtype=torch.float16,
-            device_map="auto"
-        )
-        model.eval()
+        model, tokenizer = load_generation_model(MODEL_NAME)
         _peptide_gpt = PeptideGPT_non_fouling(model=model, tokenizer=tokenizer)
     return _peptide_gpt
 
