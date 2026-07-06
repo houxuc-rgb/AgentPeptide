@@ -1,0 +1,15 @@
+path,type,manuscript_item,description
+source_data/origin/sampled_sol.json,input_data,pooled refinement,Original soluble-source peptide records.
+source_data/origin/sampled_nf.json,input_data,pooled refinement,Original non-fouling-source peptide records.
+source_data/origin/sampled_hem.json,input_data,pooled refinement,Original hemolysis-source peptide records.
+source_data/refined/sampled_sol.json,input_data,pooled refinement,Matched refined soluble-source peptide records.
+source_data/refined/sampled_nf.json,input_data,pooled refinement,Matched refined non-fouling-source peptide records.
+source_data/refined/sampled_hem.json,input_data,pooled refinement,Matched refined hemolysis-source peptide records.
+source_data/results/make_peptide_refinement_figure.py,processing_script,pooled refinement,Base processing script for pooled refinement source data.
+source_data/results/make_peptide_refinement_figure_v6.py,processing_script,pooled refinement,Processing script for v6 pooled-refinement source data and figures.
+source_data/nonagent/selected_peptides_for_optimizer_comparison.csv,input_data,fixed-length exhaustive search,Selected 24 matched starts for optimizer comparison.
+source_data/nonagent/nonagent_greedy_summary.csv,input_data,fixed-length exhaustive search,Best fixed-length single-substitution results for 24 starts.
+source_data/nonagent/aggressive_refinement_summary.csv,input_data,aggressive refinement,Aggressive-refinement summary for the matched starts.
+source_data/nonagent/make_agent_nonagent_comparison.py,processing_script,fixed-length exhaustive search,Generates matched agent-versus-exhaustive-search source tables and figure artifacts.
+source_data/nonagent/make_aggressive_refinement_figure.py,processing_script,aggressive refinement,Generates aggressive-refinement source tables and figure artifacts.
+source_data/nonagent/make_nonagent_review_revisions_v3.py,processing_script,review revision figures,Generates v3 review-revision source tables and figure artifacts.

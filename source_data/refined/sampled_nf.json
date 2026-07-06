@@ -1,0 +1,902 @@
+[
+  {
+    "idx": 0,
+    "sequence": "KKEIS",
+    "length": 5,
+    "sol": 0.7050887942314148,
+    "nf": 0.6393250226974487,
+    "hem": 0.3946406841278075,
+    "refined": true
+  },
+  {
+    "idx": 1,
+    "sequence": "GKETQ",
+    "length": 5,
+    "sol": 0.7286093831062317,
+    "nf": 0.6803419589996338,
+    "hem": 0.40322812398274727,
+    "refined": true
+  },
+  {
+    "idx": 2,
+    "sequence": "SSGAE",
+    "length": 5,
+    "sol": 0.7282391786575317,
+    "nf": 0.664085865020752,
+    "hem": 0.36737414201100654,
+    "refined": true
+  },
+  {
+    "idx": 3,
+    "sequence": "SKEG",
+    "length": 4,
+    "sol": 0.7273153066635132,
+    "nf": 0.673697829246521,
+    "hem": 0.3908623456954955,
+    "refined": true
+  },
+  {
+    "idx": 4,
+    "sequence": "KGEKLTS",
+    "length": 7,
+    "sol": 0.7293369174003601,
+    "nf": 0.6860539317131042,
+    "hem": 0.37922632694244374,
+    "refined": true
+  },
+  {
+    "idx": 5,
+    "sequence": "SGSGS",
+    "length": 5,
+    "sol": 0.7288958430290222,
+    "nf": 0.689715564250946,
+    "hem": 0.3716495831807453,
+    "refined": true
+  },
+  {
+    "idx": 6,
+    "sequence": "SKSEPISPS",
+    "length": 9,
+    "sol": 0.7294532060623169,
+    "nf": 0.673648476600647,
+    "hem": 0.36486975351969386,
+    "refined": true
+  },
+  {
+    "idx": 7,
+    "sequence": "SSGRP",
+    "length": 5,
+    "sol": 0.7284574508666992,
+    "nf": 0.6857780814170837,
+    "hem": 0.3654111623764037,
+    "refined": true
+  },
+  {
+    "idx": 8,
+    "sequence": "ESKGGEKNDG",
+    "length": 10,
+    "sol": 0.7276874780654907,
+    "nf": 0.6850754022598267,
+    "hem": 0.362372318903605,
+    "refined": true
+  },
+  {
+    "idx": 9,
+    "sequence": "KSGSG",
+    "length": 5,
+    "sol": 0.7296223044395447,
+    "nf": 0.6825982928276062,
+    "hem": 0.371185262997945,
+    "refined": true
+  },
+  {
+    "idx": 10,
+    "sequence": "GESRP",
+    "length": 5,
+    "sol": 0.7267358303070068,
+    "nf": 0.6655287146568298,
+    "hem": 0.36999674638112373,
+    "refined": true
+  },
+  {
+    "idx": 11,
+    "sequence": "ESGEPGS",
+    "length": 7,
+    "sol": 0.7279595732688904,
+    "nf": 0.6929618120193481,
+    "hem": 0.36717506249745674,
+    "refined": true
+  },
+  {
+    "idx": 12,
+    "sequence": "KKEKE",
+    "length": 5,
+    "sol": 0.7074897885322571,
+    "nf": 0.699893057346344,
+    "hem": 0.4524116913477578,
+    "refined": true
+  },
+  {
+    "idx": 13,
+    "sequence": "KGSPE",
+    "length": 5,
+    "sol": 0.7285242080688477,
+    "nf": 0.7049257159233093,
+    "hem": 0.3742221196492512,
+    "refined": true
+  },
+  {
+    "idx": 14,
+    "sequence": "KKENN",
+    "length": 5,
+    "sol": 0.7218144536018372,
+    "nf": 0.6894740462303162,
+    "hem": 0.39115242163340236,
+    "refined": true
+  },
+  {
+    "idx": 15,
+    "sequence": "KSEKE",
+    "length": 5,
+    "sol": 0.7226599454879761,
+    "nf": 0.692868709564209,
+    "hem": 0.4259188175201415,
+    "refined": true
+  },
+  {
+    "idx": 16,
+    "sequence": "EKGSNAS",
+    "length": 7,
+    "sol": 0.7294430732727051,
+    "nf": 0.6744986772537231,
+    "hem": 0.3628557125727334,
+    "refined": true
+  },
+  {
+    "idx": 17,
+    "sequence": "KKEKR",
+    "length": 5,
+    "sol": 0.7102457880973816,
+    "nf": 0.6897342801094055,
+    "hem": 0.4682838122049966,
+    "refined": true
+  },
+  {
+    "idx": 18,
+    "sequence": "SSETGMLYS",
+    "length": 9,
+    "sol": 0.7292160987854004,
+    "nf": 0.6208909749984741,
+    "hem": 0.3701278765996296,
+    "refined": true
+  },
+  {
+    "idx": 19,
+    "sequence": "KGGGS",
+    "length": 5,
+    "sol": 0.7285927534103394,
+    "nf": 0.699451208114624,
+    "hem": 0.371831178665161,
+    "refined": true
+  },
+  {
+    "idx": 20,
+    "sequence": "KSEIN",
+    "length": 5,
+    "sol": 0.714442253112793,
+    "nf": 0.640308141708374,
+    "hem": 0.38042040665944404,
+    "refined": true
+  },
+  {
+    "idx": 21,
+    "sequence": "SSGSDSG",
+    "length": 7,
+    "sol": 0.7291327118873596,
+    "nf": 0.6841966509819031,
+    "hem": 0.3649565776189167,
+    "refined": true
+  },
+  {
+    "idx": 22,
+    "sequence": "GKEDSKLYY",
+    "length": 9,
+    "sol": 0.7067030072212219,
+    "nf": 0.6159074902534485,
+    "hem": 0.36013952891031886,
+    "refined": true
+  },
+  {
+    "idx": 23,
+    "sequence": "SGSPSTG",
+    "length": 7,
+    "sol": 0.728147029876709,
+    "nf": 0.6944131255149841,
+    "hem": 0.36881140867869044,
+    "refined": true
+  },
+  {
+    "idx": 24,
+    "sequence": "MGGSP",
+    "length": 5,
+    "sol": 0.7283008098602295,
+    "nf": 0.6880455017089844,
+    "hem": 0.3644743760426838,
+    "refined": true
+  },
+  {
+    "idx": 25,
+    "sequence": "MEGLEFP",
+    "length": 7,
+    "sol": 0.7265303730964661,
+    "nf": 0.6173148155212402,
+    "hem": 0.3642601966857909,
+    "refined": true
+  },
+  {
+    "idx": 26,
+    "sequence": "MGSPSSST",
+    "length": 8,
+    "sol": 0.7284348011016846,
+    "nf": 0.6830980777740479,
+    "hem": 0.3707932631174722,
+    "refined": true
+  },
+  {
+    "idx": 27,
+    "sequence": "MEKLLEID",
+    "length": 8,
+    "sol": 0.6656779050827026,
+    "nf": 0.5504457950592041,
+    "hem": 0.37750931580861397,
+    "refined": true
+  },
+  {
+    "idx": 28,
+    "sequence": "MKGDPIS",
+    "length": 7,
+    "sol": 0.7297959327697754,
+    "nf": 0.6507418751716614,
+    "hem": 0.35903406143188465,
+    "refined": true
+  },
+  {
+    "idx": 29,
+    "sequence": "MSKLLGQS",
+    "length": 8,
+    "sol": 0.7289230227470398,
+    "nf": 0.6081124544143677,
+    "hem": 0.36773018042246486,
+    "refined": true
+  },
+  {
+    "idx": 30,
+    "sequence": "MKKSS",
+    "length": 5,
+    "sol": 0.7288984060287476,
+    "nf": 0.6525943279266357,
+    "hem": 0.3811304966608682,
+    "refined": true
+  },
+  {
+    "idx": 31,
+    "sequence": "MESKDTHDE",
+    "length": 9,
+    "sol": 0.7227282524108887,
+    "nf": 0.6536174416542053,
+    "hem": 0.3642641703287759,
+    "refined": true
+  },
+  {
+    "idx": 32,
+    "sequence": "MKGKK",
+    "length": 5,
+    "sol": 0.7267211675643921,
+    "nf": 0.6782938838005066,
+    "hem": 0.4061096111933389,
+    "refined": true
+  },
+  {
+    "idx": 33,
+    "sequence": "MSGPDAG",
+    "length": 7,
+    "sol": 0.7289854884147644,
+    "nf": 0.6581418514251709,
+    "hem": 0.35830489794413234,
+    "refined": true
+  },
+  {
+    "idx": 34,
+    "sequence": "MSKMGYLL",
+    "length": 8,
+    "sol": 0.6983420252799988,
+    "nf": 0.5454448461532593,
+    "hem": 0.3634299039840697,
+    "refined": true
+  },
+  {
+    "idx": 35,
+    "sequence": "MSGRT",
+    "length": 5,
+    "sol": 0.7293089032173157,
+    "nf": 0.6455091238021851,
+    "hem": 0.37751388549804676,
+    "refined": true
+  },
+  {
+    "idx": 36,
+    "sequence": "MESKL",
+    "length": 5,
+    "sol": 0.72379469871521,
+    "nf": 0.5946487784385681,
+    "hem": 0.4088430802027383,
+    "refined": true
+  },
+  {
+    "idx": 37,
+    "sequence": "MSEAKDLK",
+    "length": 8,
+    "sol": 0.7169924378395081,
+    "nf": 0.6322497129440308,
+    "hem": 0.36680571238199855,
+    "refined": true
+  },
+  {
+    "idx": 38,
+    "sequence": "MSSSS",
+    "length": 5,
+    "sol": 0.7292019128799438,
+    "nf": 0.6420053839683533,
+    "hem": 0.3741074800491332,
+    "refined": true
+  },
+  {
+    "idx": 39,
+    "sequence": "MSSEG",
+    "length": 5,
+    "sol": 0.72968590259552,
+    "nf": 0.642928957939148,
+    "hem": 0.37433934211730946,
+    "refined": true
+  },
+  {
+    "idx": 40,
+    "sequence": "MGGENKG",
+    "length": 7,
+    "sol": 0.7294076681137085,
+    "nf": 0.6933704614639282,
+    "hem": 0.36570898691813136,
+    "refined": true
+  },
+  {
+    "idx": 41,
+    "sequence": "MESTDTK",
+    "length": 7,
+    "sol": 0.7292741537094116,
+    "nf": 0.6520812511444092,
+    "hem": 0.3737927675247191,
+    "refined": true
+  },
+  {
+    "idx": 42,
+    "sequence": "MKKKKNNVLEK",
+    "length": 11,
+    "sol": 0.7239866852760315,
+    "nf": 0.6103954315185547,
+    "hem": 0.3665023247400918,
+    "refined": true
+  },
+  {
+    "idx": 43,
+    "sequence": "MGSPS",
+    "length": 5,
+    "sol": 0.7290522456169128,
+    "nf": 0.6790008544921875,
+    "hem": 0.3666737874348957,
+    "refined": true
+  },
+  {
+    "idx": 44,
+    "sequence": "MGETT",
+    "length": 5,
+    "sol": 0.7297353148460388,
+    "nf": 0.6701284050941467,
+    "hem": 0.3946561813354491,
+    "refined": true
+  },
+  {
+    "idx": 45,
+    "sequence": "MSGLE",
+    "length": 5,
+    "sol": 0.7282891869544983,
+    "nf": 0.6353866457939148,
+    "hem": 0.3795330921808877,
+    "refined": true
+  },
+  {
+    "idx": 46,
+    "sequence": "MKSRPIKRVCF",
+    "length": 11,
+    "sol": 0.7276231050491333,
+    "nf": 0.5214269161224365,
+    "hem": 0.35669219493865956,
+    "refined": true
+  },
+  {
+    "idx": 47,
+    "sequence": "MGERL",
+    "length": 5,
+    "sol": 0.7170481085777283,
+    "nf": 0.6200821399688721,
+    "hem": 0.43665440877278633,
+    "refined": true
+  },
+  {
+    "idx": 48,
+    "sequence": "MGGEE",
+    "length": 5,
+    "sol": 0.7267926931381226,
+    "nf": 0.6890835762023926,
+    "hem": 0.3858072757720946,
+    "refined": true
+  },
+  {
+    "idx": 49,
+    "sequence": "MGSSS",
+    "length": 5,
+    "sol": 0.7295010089874268,
+    "nf": 0.6706209778785706,
+    "hem": 0.3715818325678506,
+    "refined": true
+  },
+  {
+    "idx": 50,
+    "sequence": "MSERPVCPQC",
+    "length": 10,
+    "sol": 0.7289649844169617,
+    "nf": 0.5955607891082764,
+    "hem": 0.3751885096232095,
+    "refined": true
+  },
+  {
+    "idx": 51,
+    "sequence": "MSGERPERN",
+    "length": 9,
+    "sol": 0.7293732166290283,
+    "nf": 0.6801084280014038,
+    "hem": 0.3608905474344888,
+    "refined": true
+  },
+  {
+    "idx": 52,
+    "sequence": "MEGVP",
+    "length": 5,
+    "sol": 0.7279605269432068,
+    "nf": 0.6382961869239807,
+    "hem": 0.3687047163645425,
+    "refined": true
+  },
+  {
+    "idx": 53,
+    "sequence": "MKSDPYS",
+    "length": 7,
+    "sol": 0.7294517755508423,
+    "nf": 0.6442733407020569,
+    "hem": 0.36275001366933174,
+    "refined": true
+  },
+  {
+    "idx": 54,
+    "sequence": "MSEDGG",
+    "length": 6,
+    "sol": 0.7291238903999329,
+    "nf": 0.6472060084342957,
+    "hem": 0.3671804269154865,
+    "refined": true
+  },
+  {
+    "idx": 55,
+    "sequence": "MGERL",
+    "length": 5,
+    "sol": 0.7170481085777283,
+    "nf": 0.6200821399688721,
+    "hem": 0.43665440877278633,
+    "refined": true
+  },
+  {
+    "idx": 56,
+    "sequence": "MGKAPLSDQQ",
+    "length": 10,
+    "sol": 0.7296445369720459,
+    "nf": 0.6536123156547546,
+    "hem": 0.35806548595428456,
+    "refined": true
+  },
+  {
+    "idx": 57,
+    "sequence": "MGGRE",
+    "length": 5,
+    "sol": 0.7262305021286011,
+    "nf": 0.6782540678977966,
+    "hem": 0.3910006284713744,
+    "refined": true
+  },
+  {
+    "idx": 58,
+    "sequence": "MEEEE",
+    "length": 5,
+    "sol": 0.7054840922355652,
+    "nf": 0.6527323722839355,
+    "hem": 0.43582570552825917,
+    "refined": true
+  },
+  {
+    "idx": 59,
+    "sequence": "MSSSTGL",
+    "length": 7,
+    "sol": 0.729438841342926,
+    "nf": 0.6274184584617615,
+    "hem": 0.37204893430074043,
+    "refined": true
+  },
+  {
+    "idx": 60,
+    "sequence": "MSKAGE",
+    "length": 6,
+    "sol": 0.7277076840400696,
+    "nf": 0.629019021987915,
+    "hem": 0.3647787570953368,
+    "refined": true
+  },
+  {
+    "idx": 61,
+    "sequence": "MGSNG",
+    "length": 5,
+    "sol": 0.7297763228416443,
+    "nf": 0.6630431413650513,
+    "hem": 0.3683552344640095,
+    "refined": true
+  },
+  {
+    "idx": 62,
+    "sequence": "GGGGRGGGA",
+    "length": 9,
+    "sol": 0.7096914649009705,
+    "nf": 0.6659358143806458,
+    "hem": 0.3577873309453327,
+    "refined": true
+  },
+  {
+    "idx": 63,
+    "sequence": "MGETEFP",
+    "length": 7,
+    "sol": 0.7279050946235657,
+    "nf": 0.6589072942733765,
+    "hem": 0.3680258194605508,
+    "refined": true
+  },
+  {
+    "idx": 64,
+    "sequence": "GGGAAGDG",
+    "length": 8,
+    "sol": 0.7064603567123413,
+    "nf": 0.6585929989814758,
+    "hem": 0.3570522069931029,
+    "refined": true
+  },
+  {
+    "idx": 65,
+    "sequence": "MESAE",
+    "length": 5,
+    "sol": 0.7187782526016235,
+    "nf": 0.6139824986457825,
+    "hem": 0.37795456250508613,
+    "refined": true
+  },
+  {
+    "idx": 66,
+    "sequence": "GGGE",
+    "length": 4,
+    "sol": 0.7197669744491577,
+    "nf": 0.6904866695404053,
+    "hem": 0.3836396535237629,
+    "refined": true
+  },
+  {
+    "idx": 67,
+    "sequence": "MKSRYISDLNS",
+    "length": 11,
+    "sol": 0.715674638748169,
+    "nf": 0.5346953868865967,
+    "hem": 0.3580533663431802,
+    "refined": true
+  },
+  {
+    "idx": 68,
+    "sequence": "MSGQR",
+    "length": 5,
+    "sol": 0.7285135388374329,
+    "nf": 0.6637237668037415,
+    "hem": 0.39264214038848866,
+    "refined": true
+  },
+  {
+    "idx": 69,
+    "sequence": "MSKAPS",
+    "length": 6,
+    "sol": 0.7293350696563721,
+    "nf": 0.6459096074104309,
+    "hem": 0.3602867523829141,
+    "refined": true
+  },
+  {
+    "idx": 70,
+    "sequence": "MGSAP",
+    "length": 5,
+    "sol": 0.7274270057678223,
+    "nf": 0.6591259837150574,
+    "hem": 0.36108247439066554,
+    "refined": true
+  },
+  {
+    "idx": 71,
+    "sequence": "MGGFE",
+    "length": 5,
+    "sol": 0.7251943349838257,
+    "nf": 0.6452592611312866,
+    "hem": 0.38084280490875233,
+    "refined": true
+  },
+  {
+    "idx": 72,
+    "sequence": "MGESE",
+    "length": 5,
+    "sol": 0.7291762232780457,
+    "nf": 0.6803887486457825,
+    "hem": 0.387704292933146,
+    "refined": true
+  },
+  {
+    "idx": 73,
+    "sequence": "MGSAG",
+    "length": 5,
+    "sol": 0.7291572093963623,
+    "nf": 0.6350804567337036,
+    "hem": 0.3636329571406045,
+    "refined": true
+  },
+  {
+    "idx": 74,
+    "sequence": "MGGDS",
+    "length": 5,
+    "sol": 0.7295587062835693,
+    "nf": 0.6765637397766113,
+    "hem": 0.3706001440683999,
+    "refined": true
+  },
+  {
+    "idx": 75,
+    "sequence": "MEETSIY",
+    "length": 7,
+    "sol": 0.719968855381012,
+    "nf": 0.5873873233795166,
+    "hem": 0.3718043565750121,
+    "refined": true
+  },
+  {
+    "idx": 76,
+    "sequence": "MKSPD",
+    "length": 5,
+    "sol": 0.7297858595848083,
+    "nf": 0.6578889489173889,
+    "hem": 0.370223045349121,
+    "refined": true
+  },
+  {
+    "idx": 77,
+    "sequence": "MKGKP",
+    "length": 5,
+    "sol": 0.7293755412101746,
+    "nf": 0.6812712550163269,
+    "hem": 0.373242417971293,
+    "refined": true
+  },
+  {
+    "idx": 78,
+    "sequence": "MSGAGL",
+    "length": 6,
+    "sol": 0.7281131744384766,
+    "nf": 0.6011945009231567,
+    "hem": 0.3607049783070881,
+    "refined": true
+  },
+  {
+    "idx": 79,
+    "sequence": "MSEKD",
+    "length": 5,
+    "sol": 0.7274171113967896,
+    "nf": 0.6570174098014832,
+    "hem": 0.39588284492492665,
+    "refined": true
+  },
+  {
+    "idx": 80,
+    "sequence": "MGSRE",
+    "length": 5,
+    "sol": 0.7288263440132141,
+    "nf": 0.6687358021736145,
+    "hem": 0.3914947509765624,
+    "refined": true
+  },
+  {
+    "idx": 81,
+    "sequence": "MGERRRRPR",
+    "length": 9,
+    "sol": 0.7207216024398804,
+    "nf": 0.6693094372749329,
+    "hem": 0.36951394875844307,
+    "refined": true
+  },
+  {
+    "idx": 82,
+    "sequence": "MGKRRKR",
+    "length": 7,
+    "sol": 0.7248573899269104,
+    "nf": 0.6755141615867615,
+    "hem": 0.4064340591430663,
+    "refined": true
+  },
+  {
+    "idx": 83,
+    "sequence": "MESAK",
+    "length": 5,
+    "sol": 0.7222402095794678,
+    "nf": 0.6165494918823242,
+    "hem": 0.380227486292521,
+    "refined": true
+  },
+  {
+    "idx": 84,
+    "sequence": "MEGKL",
+    "length": 5,
+    "sol": 0.7218233346939087,
+    "nf": 0.6194873452186584,
+    "hem": 0.408645192782084,
+    "refined": true
+  },
+  {
+    "idx": 85,
+    "sequence": "MEESE",
+    "length": 5,
+    "sol": 0.7251855134963989,
+    "nf": 0.6460631489753723,
+    "hem": 0.4022259712219237,
+    "refined": true
+  },
+  {
+    "idx": 86,
+    "sequence": "MKSEE",
+    "length": 5,
+    "sol": 0.7256873250007629,
+    "nf": 0.6553824543952942,
+    "hem": 0.39642465114593495,
+    "refined": true
+  },
+  {
+    "idx": 87,
+    "sequence": "MKGISKL",
+    "length": 7,
+    "sol": 0.72116619348526,
+    "nf": 0.6170145869255066,
+    "hem": 0.3623474836349486,
+    "refined": true
+  },
+  {
+    "idx": 88,
+    "sequence": "MKKMPKK",
+    "length": 7,
+    "sol": 0.7288210988044739,
+    "nf": 0.6637463569641113,
+    "hem": 0.37531069914499904,
+    "refined": true
+  },
+  {
+    "idx": 89,
+    "sequence": "MSSRR",
+    "length": 5,
+    "sol": 0.7262442111968994,
+    "nf": 0.6245022416114807,
+    "hem": 0.3996150890986123,
+    "refined": true
+  },
+  {
+    "idx": 90,
+    "sequence": "MSGRSNM",
+    "length": 7,
+    "sol": 0.7294195890426636,
+    "nf": 0.648323118686676,
+    "hem": 0.36337745189666737,
+    "refined": true
+  },
+  {
+    "idx": 91,
+    "sequence": "MSEDP",
+    "length": 5,
+    "sol": 0.7296095490455627,
+    "nf": 0.6606999039649963,
+    "hem": 0.3719422419865925,
+    "refined": true
+  },
+  {
+    "idx": 92,
+    "sequence": "MSKEEEAP",
+    "length": 8,
+    "sol": 0.7281315326690674,
+    "nf": 0.6635369658470154,
+    "hem": 0.36455484231313057,
+    "refined": true
+  },
+  {
+    "idx": 93,
+    "sequence": "MGSPS",
+    "length": 5,
+    "sol": 0.7290522456169128,
+    "nf": 0.6790008544921875,
+    "hem": 0.3666737874348957,
+    "refined": true
+  },
+  {
+    "idx": 94,
+    "sequence": "MGEDDRN",
+    "length": 7,
+    "sol": 0.728281557559967,
+    "nf": 0.6752902865409851,
+    "hem": 0.37143639723459865,
+    "refined": true
+  },
+  {
+    "idx": 95,
+    "sequence": "MGSDG",
+    "length": 5,
+    "sol": 0.7294463515281677,
+    "nf": 0.6632204055786133,
+    "hem": 0.3710126082102456,
+    "refined": true
+  },
+  {
+    "idx": 96,
+    "sequence": "MEGVS",
+    "length": 5,
+    "sol": 0.7294796705245972,
+    "nf": 0.6165130138397217,
+    "hem": 0.3745344479878742,
+    "refined": true
+  },
+  {
+    "idx": 97,
+    "sequence": "MEEESDRQE",
+    "length": 9,
+    "sol": 0.7232596278190613,
+    "nf": 0.6692773699760437,
+    "hem": 0.37354938189188625,
+    "refined": true
+  },
+  {
+    "idx": 98,
+    "sequence": "MKSNSKK",
+    "length": 7,
+    "sol": 0.7291144728660583,
+    "nf": 0.6679336428642273,
+    "hem": 0.37158799171447743,
+    "refined": true
+  },
+  {
+    "idx": 99,
+    "sequence": "MKGDYKS",
+    "length": 7,
+    "sol": 0.7291092276573181,
+    "nf": 0.6455719470977783,
+    "hem": 0.3658587932586669,
+    "refined": true
+  }
+]
