@@ -16,6 +16,7 @@ Run these commands from the repository root:
 
 ```bash
 python source_data/results/make_peptide_refinement_figure_v6.py
+python source_data/nonagent/generate_variants.py
 python source_data/nonagent/make_agent_nonagent_comparison.py
 python source_data/nonagent/make_aggressive_refinement_figure.py
 python source_data/nonagent/make_nonagent_review_revisions_v3.py
@@ -28,7 +29,7 @@ The scripts write derived CSV source-data tables and figure artifacts under
 ## Manuscript mapping
 
 - Pooled 300-peptide refinement data: `source_data/origin/`, `source_data/refined/`, and generated outputs from `source_data/results/make_peptide_refinement_figure_v6.py`.
-- Fixed-length exhaustive-search analysis: `source_data/nonagent/nonagent_greedy_summary.csv` and `source_data/nonagent/selected_peptides_for_optimizer_comparison.csv`.
+- Fixed-length exhaustive-search analysis: `source_data/nonagent/selected_peptides_for_optimizer_comparison.csv`, `source_data/nonagent/generate_variants.py`, and `source_data/nonagent/nonagent_greedy_summary.csv`.
 - Aggressive-refinement analysis: `source_data/nonagent/aggressive_refinement_summary.csv` and generated outputs from `source_data/nonagent/make_aggressive_refinement_figure.py`.
 - Figure source data: generated CSV files from the scripts listed above.
 
